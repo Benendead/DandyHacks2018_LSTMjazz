@@ -3,7 +3,7 @@
 This is an ongoing project working to use LSTMs to generate novel jazz improvisations over given chord progressions.
 
 ### Date
-Started at the DandyHacks 2018 hackathon in October 2018. Ongoing to present.
+Started at the DandyHacks 2018 hackathon in October 2018. Continuing into present.
 
 ### Goals
 My main goal with this project is to familiarize myself with concepts involved with LSTM networks, continue to build my Keras 
