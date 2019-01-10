@@ -11,7 +11,8 @@ capabilities, and to truly end up with some interesting music that may or may no
 Along the way, I'm familiarizing myself with the Music21 library for Python in order to process my dataset.
 
 ### Process
-Continuing to process the data as I figure out Music21's inner workings. Currently extrapolating the chords from each song.
+Data preprocessing is now finished. I've studied the basic intuitions of LSTMs and am currently reading research papers to 
+survey previous work into music generation using LSTMs.
 
 ### Project's Result
 Ongoing...
